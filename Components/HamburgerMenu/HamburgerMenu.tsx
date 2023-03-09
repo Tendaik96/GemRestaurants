@@ -67,10 +67,10 @@ export default function HamburgerMenu() {
 
         <ul className="DESKTOP-MENU hidden space-x-8 lg:flex">
           <li>
-            <a href="/about">About</a>
+            <a href="/aboutus">About Us</a>
           </li>
           <li>
-            <a href="/portfolio">Portfolio</a>
+            <a href="/locations">Locations</a>
           </li>
           <li>
             <a href="/contact">Contact</a>
